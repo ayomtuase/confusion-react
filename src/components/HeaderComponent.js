@@ -39,12 +39,6 @@ class Header extends Component {
         event.preventDefault();
 
     }
-      
-
-    
-
-
-
 
     render() {
         return (
